@@ -1,3 +1,5 @@
 # git_learning
+Entrar no CMD(Terminal)
 
-teste do git
+Git Pull - atualiza base
+
